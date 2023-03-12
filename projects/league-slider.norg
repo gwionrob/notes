@@ -1,0 +1,18 @@
+*_League Slider_*
+
+* _TODO_
+  -- ( ) Team pop-up on click
+  --- ( ) When the user clicks the row of a specific team, a pop-up appears
+  --- ( ) The pop-up contains a chart that displays their historical standings in the currently selected league
+  --- ( ) Add configuration to the chart, i.e. display goals or pts etc. instead of standings
+  -- ( ) Menubar at top of league
+  --- ( ) Tidy up menubar above league display
+  --- ( ) Allow users to filter by league, Away/Home
+  -- ( ) Introduce more leagues to the app
+  --- ( ) Championship
+  --- ( ) League 1
+  --- ( ) League 2
+
+* _Ideas_
+  - Add player stats
+  - Add xg analysis
