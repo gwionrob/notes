@@ -1,0 +1,207 @@
+@document.meta
+title: Trading Hub Interview Prep
+description: 
+authors: gwionrob
+categories: 
+created: 2023-05-21
+updated: 2023-05-22
+version: 1.1.1
+@end
+
+* Trading Hub Interview Prep
+
+** MAST - Trade Surveillance
+   - The most sophisticated trade surveillance solution available
+
+*** Protect your firm from market abuse
+    - MAST is the industry-leading trade surveillance solution, trusted by some of the 
+      largest financial institutions in the world.
+    
+*** Leading the way in trade survaillance
+    - MAST solves survaillance challenges in unique and innovative ways.
+    - The advantages MAST provides to customers have fulled the integration of MAST
+      across all financial markets
+    -- _*135M+*_ - Number of trades analysed per day
+    --  _*25%*_  - Global AUM that they monitor trades for
+    --  _*45+*_  - Countries they analyse trades from
+    --  _*18*_   - Tier 1 - 4 investment bank customers
+      
+*** What makes MAST different?
+
+**** True cross-product abuse detection
+     - Modelling the behaviour of correlated instruments allows MAST to automatically
+       identify when a trader commits market abuse.
+    
+**** Customisation
+     - Through the CaaS framework, you can build new solutions for your individual
+       surveillance use cases.
+     
+**** Comprehensive Coverage
+     - Providing coverage across all asset classes and market abuse types assures
+       surveillance teams that their coverage concerns are dealt with.
+
+**** Severity-based alerts
+     - MAST qualifies the scale of risk by providing a USD value for each alert,
+       which helps with proritising.
+
+**** Fewer false positives
+     - Built on mathematical models, MAST is inherently more capable of screening out
+       false positives.
+
+**** Auto-calibraition
+     - MAST adapts dynamically to changes in market conditions, auto-calibrating
+       customer parameters and thresholds in times of market instability.
+
+
+** AMLA - Financial Markets Anti-Money Laundering
+   - Improve your detection of money laundering in financial markets
+   - Existing AML solutions monitoring financial markets typically have a fragmented
+     understanding of customer risk
+   - This is because they predominantly focus on KYC and settlement data and lack 
+     the ability to accurately analyse trade behaviour.
+   - This makes them unable to build a comprehensive picture of the money laundering
+     risk that a particular customer poses.
+   - AMLA was developed to address these concerns.
+
+*** Protect your firm from financial crime
+    - AMLA is an AML transaction monitoring tool specifically developed to detect
+      suspicious activity in the financial markets.
+    - It employs sophisticated metrics to identify high-risk patterns of trading
+      behaviour.
+    - Together with settlement risk and KYC information, AMLA is able to provide
+      an overall cutomer risk assessment - enabling analysts to prioritise the
+      riskiest customers to investigate.
+
+*** How can AMLA help you?
+
+**** Improve detection of financial markets money laundering
+     - Analusing trade, KYC and settlement data together offers a more holistic
+       analysis reflective of each customer's overall risk.
+
+**** Prioritise customers that pose the greatest risk
+     - Providing an overall risk score for each customer enables surveillance
+       teams to identify the higher-risk customer.
+     - For each customer, AMLA flags the riskiest metrics, days, instruments,
+       and associated trades to aid investigation.
+
+**** Uncover hidden customer networks
+     - Analising trade economics means AMLA can detect hidden connections by
+       assessing the likelihood and frequency at which risk is offset from one
+       customer to another. This is key for detecting mirror trading.
+
+**** Informed customer investigations
+     - The customer risk scorecard provides surveillance analysts with a customer
+       risk summary, informing them of any concentrated risk particularly by
+       metric, day, instrument or trade.
+     - This ultimately helps direct analysts to the primary focus of their
+       investigation.
+
+**** Investigate risks efficiently
+     - The customisable case management system means that customers of varying
+       risk levels immediately reach the appropriate risk tier.
+
+
+
+** TEAM - Best Execution Compliance
+   - Holistic transaction analytics with a focus on best execution
+
+*** Challenges firms face
+    - Companies use a variety of transaction analytics tools in front middle
+      and back-office application resulting in disconnected, inefficient
+      technology stacks with a subsequent high cost of ownership.
+    - Incomplete solutions to bespoke problem-sets pose significant
+      implementation and change management challenges.
+    - Data governance and visibility is especially challenging in convoluted
+      system environments
+
+*** The solution
+    - TEAM is an all-in-one Platform-as-a-Service (PaaS), combining market-
+      leading transaction visualisation, analytics and alerting modules with
+      an accessible development environment for bespoke analytics and reports
+      suiting your precise requirements.
+    - Our customers are using TEAM in firm-wide applications including trader
+      performance, cost optimisation, price optimisation, best execution,
+      mandate compliance and schedule reporting.
+
+*** What makes TEAM unique?
+
+**** Transaction analytics and consortium access
+     - Analytical modules utilise market data, consortium data and proprietary
+       algrithms to produce accurate, explainable execution analysis against
+       continuous price series even in unlit markets.
+
+**** Rich, customisable trade visualisation
+     - TEAM permits open, multi-dimensional trade comparison by trade, book,
+       broker, venue, counterparty, mandate, trade economics and bespoke
+       inputs.
+     - This is essential in trend analysis for trader performance, reporting
+       and mandate compliance.
+
+**** PaaS & IDE for bespoke modules
+     - Create analytics to suit any requirement for metric, pattern recognition,
+       alerting and internal/external reporting.
+     - Schedule analytics processing and reporting generation as-and-when you
+       need it.
+
+**** Low cost of ownership, optimised for integration
+     - One platform for multiple transaction analytics applications.
+     - TEAM's PaaS environment expedites data integration and reporting for
+       implementation and change management process.
+
+** CaaS - Reporting And Analytics
+   - Build custom solutions to your unique problems with our big data analytics
+     platform
+
+*** The challenges that banks are facing
+    - Most global banks are facing similar challenges in the big data analytics
+      and reporting spaces. Calculation as a service (CaaS) is uniquely build to
+      solve these challenges
+
+**** Operational setup
+     - Every financial institution structures their operations differently, and
+       this necessitates tailored solutions to meet these custom needs.
+     
+**** Business needs
+     - Changes in business needs often need to be dealt with urgently (for
+       example, emerging regulation), requiring an agile platform which allows
+       you to react effectively, and at pace.
+     
+**** Calculation environments are fractured
+     - Most banks have myriad different systems housing trade data.
+     - Combinging data from all these systems and producing actionable business
+       analysis from them is often challenging.
+     
+**** Calculation tools are inefficient
+     - This often makes the problem worse and results in the need for more and
+       more expensive hardware.
+
+*** How CaaS can help
+    - CaaS gives you access to the infrastructure that sits at the core of each
+      of our products.
+    - By utilising this, you are empowered to design and build custom solutions
+      to solve your unique problems.
+
+*** Capabilities CaaS provides you
+
+**** Run standard reports
+     - Improve your trade surveillance reporting capabilities by utilising our
+       standard reports such as inbox reports, rejection reports and more.
+
+**** Define and run custom reports
+     - Satisfy your bespoke requirements by creating and running your own custom
+       reports in line with the criteria you set, such as Trade and Order Link
+       reports, and WORM reports, among others.
+     
+**** Cusomise existing controls
+     - Tailor existing controls to meet specific requirements that fall outside
+       of the standard TradingHub product framework, such as customised Layering
+       and Spoofing or Front Running controls.
+     
+**** Build your own metrics
+     - Develop your own controls that fall outside of those provided by our
+       products, such as Exchange Rules, Credit Risk Limits and more.
+     
+**** Non-surveillance big data use cases
+     - Utilise our infrastructure and calculation runtime to build custom risk
+       and big data solutions, such as STOR Reporting and Mandate Monitoring,
+       among others.
